@@ -1,0 +1,5 @@
+name: Skyblock
+main: com.gmail.qvindicator.Skyblock
+version: 1.0
+api-version: 1.8
+commands:
